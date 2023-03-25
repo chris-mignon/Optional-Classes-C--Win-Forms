@@ -1,0 +1,11 @@
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\bin\Debug\Kilometer Converter.exe.config
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\bin\Debug\Kilometer Converter.exe
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\bin\Debug\Kilometer Converter.pdb
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\obj\Debug\Kilometer Converter.csproj.AssemblyReference.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\obj\Debug\Kilometer Converter.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\obj\Debug\Kilometer_Converter.mainPage.resources
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\obj\Debug\Kilometer_Converter.Properties.Resources.resources
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\obj\Debug\Kilometer Converter.csproj.GenerateResource.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\obj\Debug\Kilometer Converter.csproj.CoreCompileInputs.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\obj\Debug\Kilometer Converter.exe
+D:\GitHub\Optional-Classes-C--Win-Forms\Kilometer Converter\Kilometer Converter\obj\Debug\Kilometer Converter.pdb
