@@ -1,0 +1,11 @@
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\bin\Debug\Roman Numerals.exe.config
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\bin\Debug\Roman Numerals.exe
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\bin\Debug\Roman Numerals.pdb
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.csproj.AssemblyReference.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\obj\Debug\Roman_Numerals.Form1.resources
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\obj\Debug\Roman_Numerals.Properties.Resources.resources
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.csproj.GenerateResource.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.csproj.CoreCompileInputs.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.exe
+D:\GitHub\Optional-Classes-C--Win-Forms\Roman Numerals\Roman Numerals\obj\Debug\Roman Numerals.pdb
