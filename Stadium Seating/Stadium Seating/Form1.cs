@@ -36,7 +36,7 @@ namespace Stadium_Seating
                 && Double.TryParse(ClassBbox.Text, out double cb) 
                 && Double.TryParse(Classcbox.Text, out double cc)))
             {
-                Outputbox.Text =  Convert.ToString(this.CalIncome(ca, cb, cc));
+                Outputbox.Text =  "Total Income--$:"+Convert.ToString(this.CalIncome(ca, cb, cc));
             }
 
         }
