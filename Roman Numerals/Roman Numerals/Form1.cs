@@ -19,7 +19,8 @@ namespace Roman_Numerals
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            if (textBox1.Text.Length > 0 && Int32.TryParse(textBox1.Text, out int dec))
+            if (textBox1.Text.Length > 0 
+            && Int32.TryParse(textBox1.Text, out int dec))
             {
                 label3.Visible = false;
                 if ( dec >= 0 && dec<11 )
@@ -77,7 +78,8 @@ namespace Roman_Numerals
 
               
             }
-            else if (textBox1.Text.Length > 0 && !Int32.TryParse(textBox1.Text, out dec))
+            else if (textBox1.Text.Length > 0 
+            && !Int32.TryParse(textBox1.Text, out dec))
             {
                 textBox2.Text = "Error ";
                 label3.Text = "Enter a Number in the range 1-10";

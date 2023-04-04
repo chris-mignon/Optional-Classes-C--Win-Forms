@@ -1,4 +1,6 @@
 D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.manifest
+D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.application
 D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
 D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
 D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.AssemblyReference.cache
@@ -7,5 +9,7 @@ D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\obj\Debu
 D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Properties.Resources.resources
 D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.GenerateResource.cache
 D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.CoreCompileInputs.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe.manifest
+D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.application
 D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
 D:\GitHub\Optional-Classes-C--Win-Forms\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb

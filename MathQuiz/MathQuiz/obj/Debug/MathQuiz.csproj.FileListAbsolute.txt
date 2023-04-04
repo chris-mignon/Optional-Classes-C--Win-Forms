@@ -1,0 +1,11 @@
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+D:\GitHub\Optional-Classes-C--Win-Forms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb

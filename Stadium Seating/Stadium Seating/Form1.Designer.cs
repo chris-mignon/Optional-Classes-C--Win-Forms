@@ -131,6 +131,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Stadium Seating";
+           
             this.ResumeLayout(false);
             this.PerformLayout();
 

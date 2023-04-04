@@ -20,12 +20,14 @@ namespace Stadium_Seating
         {
             InitializeComponent();
         }
+
+        /// <summary>
+        /// Custom Method to calculate the total revenue.
+        /// </summary>
         public double CalIncome(double ca, double cb, double cc)
         {
             double income= ((ca*CLASSA)+ (cb* CLASSB) + (cc*CLASSC));
             return income;
-
-
         }
 
         private void CalBtn_Click(object sender, EventArgs e)
@@ -36,9 +38,12 @@ namespace Stadium_Seating
                 && Double.TryParse(ClassBbox.Text, out double cb) 
                 && Double.TryParse(Classcbox.Text, out double cc)))
             {
-                Outputbox.Text =  "Total Income--$:"+Convert.ToString(this.CalIncome(ca, cb, cc));
+                 Outputbox.Text =  "Total Income--$:"+Convert.ToString(this.CalIncome(ca, cb, cc));
+                
             }
 
         }
+
+       
     }
 }
